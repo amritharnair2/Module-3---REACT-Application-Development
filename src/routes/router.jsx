@@ -1,5 +1,5 @@
 import {createBrowserRouter} from "react-router-dom";
-import Aboutpage, { getProductDetails } from "../pages/Productdetails";
+import { getProductDetails } from "../pages/Productdetails";
 import Userlayout from "../layouts/Userlayout";
 import Productlayout from "../layouts/Productlayout";
   
